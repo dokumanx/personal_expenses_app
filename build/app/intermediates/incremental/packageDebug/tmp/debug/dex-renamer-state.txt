@@ -1,0 +1,4 @@
+#Sun Sep 22 03:05:29 EET 2019
+base.0=C\:\\Users\\nahitfidanci\\AndroidStudioProjects\\example2\\personal_expenses_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
